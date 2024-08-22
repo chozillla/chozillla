@@ -10,3 +10,5 @@ Recently, the democratization of AI has made it possible for anyone to get start
 For example, I was able to get a small LLM running on an Oracle cloud server and access it from my iPhone completely free! 
 
 ![LLM Demo GIF](https://github.com/chozillla/chozillla/blob/master/RPReplay_Final1724323653-ezgif.com-video-to-gif-converter.gif)
+
+This begs the question why should individuals pay for a service that they can host themselves. I pay $20 a month for chatGPT. These cost scale up as team sizes increase. 
